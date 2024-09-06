@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main (){
+setlocale (LC_ALL, "Portuguese");
+
+    int n1, n2;
+    char operacao;
+
+    printf("Digite a Opera��o: ");
+    scanf("%d%c%d",&n1,&operacao,&n2);
+
+    switch(operacao){
+    case '+':
+        printf("resultado: %d",n1 + n2);
+        break;
+    case '-':
+        printf("resultado: %d",n1 - n2);
+        break;
+    case '/':
+        printf("resultado: %d",n1 / n2);
+        break;
+    case '*':
+        printf("resultado: %d",n1 * n2);
+        break;
+    default:
+        printf("Opera��o Inv�lida");
+               }
+return 0;
+}
