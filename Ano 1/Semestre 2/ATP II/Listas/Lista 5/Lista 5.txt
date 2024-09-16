@@ -1,0 +1,55 @@
+Essa lista apresentas problemas que dever ser resolvidos com recursão, utilizando a linguagem c.
+
+Enunciados dos Exerc ́ıcios
+Exerc ́ıcio 1: Escreva uma fun ̧c ̃ao recursiva para calcular o fatorial de um n ́umero.
+
+Exerc ́ıcio 2: Implemente uma fun ̧c ̃ao recursiva para calcular a soma dos primeiros N
+n ́umeros naturais.
+
+Exerc ́ıcio 3: Crie uma fun ̧c ̃ao recursiva para encontrar o m ́aximo elemento em um array.
+
+Exerc ́ıcio 4: Desenvolva uma fun ̧c ̃ao recursiva para calcular a sequˆencia de Fibonacci
+at ́e o en ́esimo termo.
+
+Exerc ́ıcio 5: Escreva uma fun ̧c ̃ao recursiva para verificar se um n ́umero  ́e primo.
+
+Exerc ́ıcio 6: Implemente uma fun ̧c ̃ao recursiva para imprimir os elementos de um array
+na ordem inversa.
+
+Exerc ́ıcio 7: Crie uma fun ̧c ̃ao recursiva para calcular a potˆencia de um n ́umero.
+
+Exerc ́ıcio 8: Desenvolva uma fun ̧c ̃ao recursiva para calcular o MDC (M ́aximo Divisor
+Comum) de dois n ́umeros.
+
+Exerc ́ıcio 9: Escreva uma fun ̧c ̃ao recursiva para inverter uma string.
+
+Exerc ́ıcio 10: Implemente uma fun ̧c ̃ao recursiva para calcular a soma dos d ́ıgitos de um
+n ́umero inteiro.
+
+Exerc ́ıcio 11: Crie uma fun ̧c ̃ao recursiva para encontrar o maior divisor comum de um
+array de n ́umeros.
+
+Exerc ́ıcio 12: Desenvolva uma fun ̧c ̃ao recursiva para imprimir todos os n ́umeros primos
+at ́e N.
+
+Exerc ́ıcio 13: Escreva uma fun ̧c ̃ao recursiva para encontrar o n ́umero de ocorrˆencias de
+um elemento em um array.
+
+Exerc ́ıcio 14: Implemente uma fun ̧c ̃ao recursiva para verificar se uma palavra  ́e um
+pal ́ındromo.
+
+Exerc ́ıcio 15: Crie uma fun ̧c ̃ao recursiva para gerar todos os subconjuntos de um con-
+junto dado.
+
+Exerc ́ıcio 16: Desenvolva uma fun ̧c ̃ao recursiva para calcular a sequˆencia de Ackermann.
+
+Exerc ́ıcio 17: Escreva uma fun ̧c ̃ao recursiva para calcular o n ́umero de caminhos poss ́ıveis
+em uma grade NxN.
+
+Exerc ́ıcio 18: Implemente uma fun ̧c ̃ao recursiva para resolver o problema da Torre de
+Hanoi.
+
+Exerc ́ıcio 19: Crie uma fun ̧c ̃ao recursiva para calcular o coeficiente binomial C(n, k).
+
+Exerc ́ıcio 20: Desenvolva uma fun ̧c ̃ao recursiva para encontrar a raiz quadrada de um
+n ́umero inteiro utilizando o m ́etodo de busca bin ́aria.
