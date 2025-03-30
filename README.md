@@ -3,7 +3,7 @@
 Algorítmos e Técnicas de Programação I é uma matéria do curso de Ciência da Computação, cujo objetivo é apresentar aspectos básicos da programação, nesse caso, em linguiagem C.
 
 ## Objetivos
-Aprender sobreÇ
+Aprender sobre:
   - Lógica da Programação
   - Aspectos Básicos da Linguagem de programação C
       .Aspectos Básicos
